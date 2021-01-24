@@ -1,0 +1,27 @@
+[
+    {
+
+    "idmenu":25, 
+    "idkategori":35, 
+    "menu":"pancake", 
+    "gambar":"dessert-1.jpg",
+    "harga":25000,
+    "warna" : ["merah","kuning","hijau"],
+    "stok" : true,
+    "keterangan" : null
+   
+
+},
+{
+   "idmenu":26, 
+    "idkategori":35, 
+    "menu":"ice cream strawberry", 
+    "gambar":"dessert-4.jpg",
+    "harga":13000,
+    "warna" : ["merah","kuning"],
+    "stok" : false,
+    "keterangan" : null
+}
+
+]
+
